@@ -1,7 +1,4 @@
-# Hexekutive's Portfolio
-My journey as a Data Analyst displayed through awesome projects
-
-# IBP Global Dashboard
+# Project 1: IBP Global Dashboard
 
 This is a Power BI project that I lead as the main data analyst, working closely with the business of a pharmaceutical company, to support the IBP Process (also known as S&OP). This process is critical for the success of the company, as it is the single source of truth for sales forecasts, and its output is used in manufacturing to ensure on-time and in-full delivery of medicines to patients. The dashboard serves around 800 stakeholders, and I was also in charge of upskilling them and keeping them up to date with the latest knowledge about the platform.
 
